@@ -11,13 +11,6 @@
   <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="center" alt="Badge Visual Studio Code" /></a>
 </p>
 
-<h2 align="center">Você me encontra nas redes sociais:</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/amanda-felipe-dionisio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="Badge Linkedin" /></a>
-  <a href="https://www.behance.net/amanda_dionisio"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" align="center" alt="Badge Behance" /></a>
-  <a href="https://www.instagram.com/guache_nin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" alt="Badge Instagram" /></a>
-</p>
-
 <h2>Sobre o projeto</h2>
 <p>Projeto desenvolvido durante os cusos da Alura, para compreender melhor as linguagens HTML5 e CSS3. O resultado final é uma página web de uma barberaria ficticia.</p>
 <p align="center">:construction: Projeto em construção :construction:</p>
@@ -33,6 +26,13 @@
 <img src="https://avatars.githubusercontent.com/u/104245596?s=400&u=22dddd54d435db2df3c8f6e91c881be3cdc31170&v=4" width=115>
 
 [Amanda Dionisio](https://github.com/amandafd)
+
+<h2 align="center">Você me encontra nas redes sociais:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanda-felipe-dionisio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="Badge Linkedin" /></a>
+  <a href="https://www.behance.net/amanda_dionisio"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" align="center" alt="Badge Behance" /></a>
+  <a href="https://www.instagram.com/guache_nin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" alt="Badge Instagram" /></a>
+</p>
 
 
 
