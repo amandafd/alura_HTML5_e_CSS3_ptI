@@ -27,8 +27,8 @@
 
 [Amanda Dionisio](https://github.com/amandafd)
 
-<h3 align="center">Você me encontra nas redes sociais:</h3>
-<p align="center">
+<h3 align="left">Você me encontra nas redes sociais:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/amanda-felipe-dionisio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left" alt="Badge Linkedin" /></a>
   <a href="https://www.behance.net/amanda_dionisio"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" align="left" alt="Badge Behance" /></a>
   <a href="https://www.instagram.com/guache_nin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left" alt="Badge Instagram" /></a>
