@@ -13,7 +13,6 @@
 
 <h2>Sobre o projeto</h2>
 <p>Projeto desenvolvido durante os cusos da Alura, para compreender melhor as linguagens HTML5 e CSS3. O resultado final é uma página web de uma barberaria ficticia.</p>
-<p align="center">:construction: Projeto em construção :construction:</p>
 
 <h3>Páginas</h3>
 <ul>
